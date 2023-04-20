@@ -12,7 +12,7 @@ This should install the `DBR` python package that the scripts depend on.
 
 ## Train
 - Train DSW first, run [train_dsw.py](https://github.com/PengJingchao/DBR/blob/main/DSW/train_dsw.py)
-- Then train Head, run [train_DH.py](https://github.com/PengJingchao/DBR/blob/main/DH/train_dh.py)
+- Then train Head, run [train_dh.py](https://github.com/PengJingchao/DBR/blob/main/DH/train_dh.py)
 
 ## Test
 - Run [test.py](https://github.com/PengJingchao/DBR/blob/main/test.py)
